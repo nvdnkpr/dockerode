@@ -19,7 +19,7 @@
     "querystring": "0.2.0",
     "follow-redirects": "0.0.3",
     "ws": "*",
-    "httpDuplex": "*"
+    "http-duplex": "*"
   },
   "devDependencies": {
     "chai": "~1.7.0",
